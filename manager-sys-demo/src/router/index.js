@@ -5,6 +5,7 @@ import Home from '../views/Home.vue'
 Vue.use(VueRouter)
 //子路由的设置
 //路由和子路由
+//选择文件状态 +++
 const routes = [
   {
     path: '/',
