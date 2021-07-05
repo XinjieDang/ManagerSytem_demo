@@ -6,6 +6,7 @@ Vue.use(VueRouter)
 //子路由的设置
 //路由和子路由
 //选择文件状态 +++
+//检出文件，
 const routes = [
   {
     path: '/',
